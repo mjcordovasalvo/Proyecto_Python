@@ -10,4 +10,5 @@ match jugador:
     case "Falcón":
         print("Colo Colo")
     case _:
+    #_ : "similar a else"
         print("Quién?")
